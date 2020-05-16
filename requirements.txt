@@ -1,0 +1,1 @@
+PyQt5 # or pyqt5-dev-tools from apt
