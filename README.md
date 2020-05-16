@@ -3,7 +3,8 @@ Minimal PyQt5 Showcase
 
 This is a minimalistic demonstration of PyQt5 for simple cross-platform Python GUIs.
 
-![Win10](https://i.imgur.com/gRqGNnL.png)
+![Win10](https://i.imgur.com/hmuGfAZ.png)
+![Xming](https://i.imgur.com/tp2pm71.png)
 
 ---
 
